@@ -1,0 +1,38 @@
+.c-1a:hover, .c-2a:hover, .c-3a:hover, .c-4a:hover, .c-5a:hover, .c-6a:hover, .c-7a:hover, .c-8a:hover, .c-9a:hover{
+transform: scale(2);
+}
+.c-1a{
+    background-color: #5994e0
+}
+
+.c-2a{
+    background-color: #ee8876;
+}
+
+.c-3a{
+    background-color: #a8dbaf;
+}
+
+.c-4a{
+    background-color: #eef104;
+}
+
+.c-5a{
+    background-color: #1ab67a;
+}
+
+.c-6a{
+    background-color: #9f82d4;
+}
+
+.c-7a{
+    background-color: #9c9292;
+}
+
+.c-8a{
+    background-color: #b4b4b4;
+}
+
+.c-9a{
+    background-color: #89b8d3;
+}
